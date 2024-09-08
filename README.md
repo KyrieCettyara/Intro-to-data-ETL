@@ -65,9 +65,9 @@ Table Sales
 ### Scenario 2
 Tarikan data sebelum insert data
 
-![alt text](https://github.com/KyrieCettyara/web-development-architecture/blob/main/image/before_testing1.png)
+![alt text](https://github.com/KyrieCettyara/Intro-to-data-ETL/blob/main/image/table_product.png)
 
 
 Tarikan data setelah insert data
 
-![alt text](https://github.com/KyrieCettyara/web-development-architecture/blob/main/image/after_testing1.png)
+![alt text](https://github.com/KyrieCettyara/Intro-to-data-ETL/blob/main/image/after_product.png)
