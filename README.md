@@ -10,8 +10,7 @@ Solusi:
 
 2. Melakukan scheduling sehingga proses dilakukan secara berkala dan otomatis.
 
-
-## ETL Scheduling
+## ETL Design
 Pipeline akan mengikuti alur seperti pada gambar, yaitu:
 - Extract
 - Transform
@@ -20,7 +19,7 @@ Pipeline akan mengikuti alur seperti pada gambar, yaitu:
 ![alt text](https://github.com/KyrieCettyara/Intro-to-data-ETL/blob/main/image/design.png)
 
 
-## ETL Design
+## ETL Scheduling 
 Untuk memastikan bahwa pipeline dijalankan secara berkala maka dilakukan scheduling menggunakan crontab. 
 
 Script yang akan dijalankan oleh crontab adalah sebagai berikut.
@@ -65,9 +64,9 @@ Table Sales
 ### Scenario 2
 Tarikan data sebelum insert data
 
-![alt text](https://github.com/KyrieCettyara/Intro-to-data-ETL/blob/main/image/table_product.png)
+![alt text](https://github.com/KyrieCettyara/Intro-to-data-ETL/blob/main/image/before_testing1.png)
 
 
 Tarikan data setelah insert data
 
-![alt text](https://github.com/KyrieCettyara/Intro-to-data-ETL/blob/main/image/after_product.png)
+![alt text](https://github.com/KyrieCettyara/Intro-to-data-ETL/blob/main/image/after_testing1.png)
